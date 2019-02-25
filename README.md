@@ -1,2 +1,2 @@
 # faster-rcnn-write-in-MySQL
-detection sometning and write the result in MySQL
+detection something and write the result in MySQL
