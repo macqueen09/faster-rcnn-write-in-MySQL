@@ -1,1 +1,7 @@
 demo 20190225
+
+git checkout -b mytree    新建分支
+git checkout master
+git checkout mytree
+
+git push origin master
